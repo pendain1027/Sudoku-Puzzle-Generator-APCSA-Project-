@@ -1,5 +1,4 @@
-# Sudoku Puzzle Generator (APCSA-Project)
-Project title: Sudoku Puzzle Generator (APCSA Project)
+# Sudoku Puzzle Generator (APCSA Project)
 
 Name: Vincent Lin
 
